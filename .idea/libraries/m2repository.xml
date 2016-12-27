@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="m2repository">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../devapplications/adt-bundle-mac-x86_64-20130917/sdk/extras/google/m2repository" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../devapplications/adt-bundle-mac-x86_64-20130917/sdk/extras/google/m2repository" recursive="false" />
+  </library>
+</component>
